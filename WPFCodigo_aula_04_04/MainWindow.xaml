@@ -19,7 +19,7 @@
         </Grid.RowDefinitions>
 
         <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center"
-                   FontSize="16" FontWeight="Bold" Padding="10" Text="Titulo"/>
+                   FontSize="16" FontWeight="Bold" Padding="10" Text="Panel Componentes"/>
 
         <StackPanel Grid.Column="0" Grid.Row="1" Margin="40" Orientation="Vertical">
 
